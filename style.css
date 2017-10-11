@@ -1,0 +1,72 @@
+body{
+  background: rgb(245,245,245);
+  color: green;
+  font-size: 25px;
+  font-family: Futura;
+  text-align:center;
+}
+h1{
+  font-family: Futura;
+  color: #D00000;
+  font-weight: lighter;
+  font-size: 50px;
+}
+h2 {
+  font-family: Futura;
+  color: #FFBA08;
+  font-weight: lighter;
+  font-size: 25px;
+}
+h3 {
+  font-family: Futura;
+  color: black;
+  font-weight: lighter;
+  font-size: 15px;
+}
+h4 {
+  font-family: Futura;
+  color: #99D5C9;
+  font-weight: lighter;
+  font-size: 15px;
+}
+a {
+  color: blue;
+}
+a:hover {
+  text-decoration: none;
+  color: purple;
+}
+
+#banner{
+  text-align: center;
+  background-image: url("image/coquillettes.jpg");
+  background-size: cover;
+  padding: 150px;
+  color: white;
+  text-shadow: 1px 1px 5px black;
+}
+#banner p {
+  color: white;
+  opacity: 0.8;
+  font-size: 30px;
+  font-weight: lighter;
+}
+#footer{
+  padding: 30px;
+  background: rgb(30, 30, 30);
+  color: #B0D0D3;
+}
+.card{
+  padding: 50px;
+  font-weight: lighter;
+}
+
+#footer a {
+  color: #136F63;
+  font-size: 30px;
+}
+
+
+
+
+
