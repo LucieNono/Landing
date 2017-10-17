@@ -39,11 +39,14 @@ a:hover {
 
 #banner{
   text-align: center;
-  background-image: url("image/coquillettes.jpg");
+  background-image: url("final/dessinemoi.jpg");
   background-size: cover;
-  padding: 150px;
+  padding-right: 150px;
+  padding-left: 150px;
   color: white;
   text-shadow: 1px 1px 5px black;
+  padding-top: 100px;
+  padding-bottom: 100px;
 }
 #banner p {
   color: white;
@@ -64,6 +67,10 @@ a:hover {
 #footer a {
   color: #136F63;
   font-size: 30px;
+}
+
+.container img {
+  border-radius: 30px;
 }
 
 
